@@ -53,7 +53,7 @@ function Hero() {
         <img alt="sound-cum" src="imgs/SoundCum.png" />
         <div className="flex gap-4">
           <a target="_blank" href="https://t.me/+kR-lwmz17qM1NDM5"><img  src="./imgs/telegram.png" alt="" height={50} width={50} /></a>
-          <a target="_blank" href=""><img  src="./imgs/pump.png" alt="" height={50} width={50} /></a>
+          <a target="_blank" href="https://pump.fun/8FDi7SbwQTaS4eWczJHmRXUatRpVsMaNqKLTUDSYpump"><img  src="./imgs/pump.png" alt="" height={50} width={50} /></a>
           <a target="_blank" href="https://x.com/CumOnTheSound"><img  src="./imgs/x.png" alt="" height={50} width={50} /></a>
         </div>
       </div>
