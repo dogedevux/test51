@@ -52,9 +52,9 @@ function Hero() {
         </span>
         <img alt="sound-cum" src="imgs/SoundCum.png" />
         <div className="flex gap-4">
-          <img href="https://t.me/+kR-lwmz17qM1NDM5" src="./imgs/telegram.png" alt="" height={50} width={50} />
-          <img href="" src="./imgs/pump.png" alt="" height={50} width={50} />
-          <img href="https://x.com/CumOnTheSound" src="./imgs/x.png" alt="" height={50} width={50} />
+          <a href="https://t.me/+kR-lwmz17qM1NDM5"><img  src="./imgs/telegram.png" alt="" height={50} width={50} /></a>
+          <a href=""><img  src="./imgs/pump.png" alt="" height={50} width={50} /></a>
+          <a href="https://x.com/CumOnTheSound"><img  src="./imgs/x.png" alt="" height={50} width={50} /></a>
         </div>
       </div>
     </div>
